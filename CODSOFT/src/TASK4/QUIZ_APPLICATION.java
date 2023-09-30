@@ -107,7 +107,7 @@ class Quiz {
     }
 
     private void goToNextQuestion() {
-        // Move to the next question
+        currentQuestionIndex++;
     }
 }
 
